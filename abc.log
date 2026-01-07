@@ -1,0 +1,5 @@
+01/06/2026 06:14:40 PM - DEBUG - logger RotatingFileHandlerdebug message
+01/06/2026 06:14:40 PM - INFO - logger RotatingFileHandler info message
+01/06/2026 06:14:40 PM - CRITICAL - logger RotatingFileHandler critical message
+01/06/2026 06:14:40 PM - WARNING - logger RotatingFileHandler warning message
+01/06/2026 06:14:40 PM - ERROR - logger RotatingFileHandler error message
